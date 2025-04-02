@@ -7,7 +7,6 @@
      -  React
      -  Vue
      -  SQL
-     -  MongoDB
      -  Express
      -  APIs
      -  CSS
